@@ -1,10 +1,10 @@
 package com.sryang.splash.di.splash_di
 
 import com.sryang.splash.usecase.SplashUseCase
-import com.sryang.torang_repository.api.ApiLogin
-import com.sryang.torang_repository.api.handle
-import com.sryang.torang_repository.data.dao.LoggedInUserDao
-import com.sryang.torang_repository.session.SessionService
+import com.sarang.torang.api.ApiLogin
+import com.sarang.torang.api.handle
+import com.sarang.torang.data.dao.LoggedInUserDao
+import com.sarang.torang.session.SessionService
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
